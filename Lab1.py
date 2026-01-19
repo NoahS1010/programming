@@ -1,8 +1,10 @@
+#Part1
 def myhelloworld():
     print("Hello World")
     
 myhelloworld()
 
+#Part2
 def input_output():
     name = input("Enter your name: ")
     age = int(input("Enter your age: "))
